@@ -67,7 +67,7 @@ SOURCES = [
 CATEGORIES = ["Diplomacy", "Military", "Energy", "Economy", "Local Events"]
 MAX_PER_CATEGORY = 20
 MAX_AGE_DAYS = 7
-OUTPUT_PATH = Path("docs/India_news.json")
+OUTPUT_PATH = Path("docs/india_news.json")
 
 CATEGORY_KEYWORDS = {
     "Diplomacy": [
